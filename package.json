@@ -1,5 +1,5 @@
 {
-  "name": "@codeceptjs/mailslurp-helper",
+  "name": "@codeceptjs-sravniru/mailslurp-helper",
   "version": "1.0.2",
   "description": "MailSlurp helper for testing emails https://mailslurp.com",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/codecept-js/mailslurp-helper.git"
   },
-  "author": "Michael Bodnarchuk codeceptjs@sdclabs.com",
+  "author": "Pilipenko Vladislav vladislav888@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/codecept-js/mailslurp-helper/issues"
