@@ -9,11 +9,11 @@
     "docs": "npx documentation readme index.js --section=API --shallow"
   },
   "peerDependencies": {
-    "codeceptjs": "^2.3.0"
+    "codeceptjs-sravniru": "^2.3.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codecept-js/mailslurp-helper.git"
+    "url": "git+https://github.com/Vla8islav/mailslurp-helper.git"
   },
   "author": "Pilipenko Vladislav vladislav888@gmail.com",
   "license": "ISC",
@@ -26,7 +26,7 @@
     "mailslurp-client": "^6.5.0"
   },
   "devDependencies": {
-    "codeceptjs": "^2.3.2",
+    "codeceptjs-sravniru": "^2.3.2",
     "documentation": "^12.1.2",
     "dotenv": "^8.1.0",
     "mocha": "^6.2.1"
