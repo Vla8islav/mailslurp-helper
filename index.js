@@ -1,5 +1,5 @@
 const { expect } = require('chai')
-const { output } = require('codeceptjs');
+const { output } = require('codeceptjs-sravniru');
 const { MailSlurp: MailSlurpClient } = require('mailslurp-client');
 
 /**
