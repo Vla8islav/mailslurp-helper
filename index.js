@@ -389,4 +389,3 @@ function matchEmailBy(options) {
 }
 
 module.exports = MailSlurp;
-1
